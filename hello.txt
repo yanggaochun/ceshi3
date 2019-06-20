@@ -6,6 +6,12 @@
 4444444444444444444444444
 
 
+
 wo zhengde hao xiang ni
 ni zuijin hao ma 
 wo zhengde hao mimang
+
+add some content to hello.txt
+9999999999999999999999999
+zzzzzzzzzzzxxxxxxxxxxxxxxx
+
